@@ -1,0 +1,1 @@
+print("\U0001F60D") # instead of + symbole write 3 zero and first attach a backslash
