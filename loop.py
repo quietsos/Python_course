@@ -72,3 +72,5 @@ for i in range(1,10):   #Here we used two variable in the range function for sta
     sum += i
 
 print(sum)
+
+#This a loop introduction.
